@@ -2,7 +2,7 @@
 基于WebMagic框架的暴走漫画的笑话爬虫
 
 运行结果显示：
-![结果](myWebMagic/resultImg/捕获.PNG)
+![结果](https://github.com/linwanxin/myWebMagic/blob/master/resultImg/%E6%8D%95%E8%8E%B7.PNG)
 
 后续需要学习的内容：
 前端部分：
